@@ -1,0 +1,5 @@
+{
+  "name": "ConcurseiroAI - Tutor de Elite",
+  "description": "Uma plataforma inteligente para estudantes de concursos públicos que analisa editais e provas em PDF, gera simulados personalizados e oferece relatórios de desempenho detalhados com sugestões de melhoria baseadas em IA.",
+  "requestFramePermissions": []
+}
